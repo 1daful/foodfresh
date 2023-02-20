@@ -10,7 +10,7 @@ const firebaseConfig = {
 };
 module.exports = {
   apiKey: "AIzaSyBj4r66t2hD0q9xI6GytrTS0UBg5RZgIrA",
-  hprojectId: "med-lte",
+  projectId: "med-lte",
   authDomain: "med-lte.firebaseapp.com",
   ANALYTICS_TRACKING_ID: 'UA-49421899-3',
   clearCart: true, // Whether to clear the cart after order is placed. Useful while testing
