@@ -12,6 +12,8 @@ module.exports = {
   apiKey: "AIzaSyBj4r66t2hD0q9xI6GytrTS0UBg5RZgIrA",
   projectId: "med-lte",
   authDomain: "med-lte.firebaseapp.com",
+  databaseURL: "https://med-lte.firebaseio.com",
+  appId: "1:6919446903:web:15e23a48e4a2453a",
   ANALYTICS_TRACKING_ID: 'UA-49421899-3',
   clearCart: true, // Whether to clear the cart after order is placed. Useful while testing
   currency: { symbol: '₹', code: 'INR' },
